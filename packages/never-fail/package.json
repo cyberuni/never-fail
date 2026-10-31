@@ -31,7 +31,8 @@
 		"esm",
 		"ts",
 		"!**/*.{spec,test,unit,accept,integrate,system}.*",
-		"!**/*.tsbuildinfo"
+		"!**/*.tsbuildinfo",
+		"CHANGELOG.md"
 	],
 	"scripts": {
 		"build": "tsdown",
