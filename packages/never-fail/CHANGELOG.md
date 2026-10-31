@@ -1,5 +1,11 @@
 # never-fail
 
+## 1.1.7
+
+### Patch Changes
+
+- a98016c: Include `CHANGELOG.md` in the published package.
+
 ## 1.1.6
 
 ### Patch Changes
